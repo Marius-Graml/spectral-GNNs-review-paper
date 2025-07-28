@@ -1,1 +1,1 @@
-# spectral-GNNs-review-paper
+# Review Paper: Spectral GNNs
